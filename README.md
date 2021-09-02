@@ -3,6 +3,7 @@
 
 ## Sekedar Catatan kumpulan command git via cmd
 ##ini test
+##triv
 
 See What Branch You're On
 
